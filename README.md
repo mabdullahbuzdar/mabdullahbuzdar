@@ -1,22 +1,20 @@
 <div align="center">
 
-# Muhammad Abdullah
+# 👋 Hi, I'm Muhammad Abdullah
 
-### Chief Operating Officer @ Picoworker
-
-**Building Intelligent Software • Artificial Intelligence • Software Engineering • Computer Vision • Cybersecurity**
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=900&lines=Chief+Operating+Officer+%40+Picoworker;Software+Engineer;Artificial+Intelligence+Enthusiast;Computer+Vision+Developer;Cybersecurity+Learner;Building+Technology+That+Creates+Impact" />
 
 <p>
 
 <a href="https://www.linkedin.com/in/muhammadabdullahbuzdar">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abdullahkhanbaloch812@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0A66C2"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -24,115 +22,189 @@
 
 ---
 
-# About
+# 💻 About Me
 
-I am **Muhammad Abdullah**, currently serving as the **Chief Operating Officer (COO) at Picoworker** while pursuing a **Bachelor of Science in Computer Science**.
+```yaml
+Name: Muhammad Abdullah
 
-My work combines **technology leadership** with **software engineering**, focusing on building scalable digital products and AI-powered solutions. I enjoy solving real-world problems through clean architecture, modern development practices, and continuous learning.
+Role: Chief Operating Officer @ Picoworker
 
----
+Education: BS Computer Science
 
-# Core Expertise
+Location: Quetta, Pakistan
 
-- Artificial Intelligence
-- Software Engineering
-- Computer Vision
-- Full-Stack Development
-- Cybersecurity
-- Cloud Technologies
-- Product Strategy
-- Technical Leadership
+Focus:
+  - Artificial Intelligence
+  - Software Engineering
+  - Computer Vision
+  - Cybersecurity
+  - Full Stack Development
 
----
-
-# Technology Stack
-
-### Languages
-
-Python • C++ • Java • JavaScript • SQL
-
-### Frontend
-
-HTML5 • CSS3 • Bootstrap
-
-### Backend
-
-Supabase • Firebase
-
-### Tools
-
-Git • GitHub • Linux • VS Code • Android Studio • Netlify
+Currently Learning:
+  - Advanced AI
+  - System Design
+  - Cloud Computing
+  - DevOps
+```
 
 ---
 
-# Current Objectives
+# 🚀 Mission
 
-• Build production-ready AI applications
-
-• Contribute to Open Source
-
-• Develop scalable SaaS platforms
-
-• Master Software Architecture
-
-• Advance in Cloud Engineering
-
-• Grow as a Technology Leader
+> Building scalable software solutions powered by Artificial Intelligence while combining technology, leadership, and innovation to solve real-world problems.
 
 ---
 
-# Featured Projects
+# ⚡ Tech Stack
 
-🤖 Artificial Intelligence
+## Programming Languages
 
-👁 Computer Vision
+<p align="left">
 
-🌐 Modern Web Applications
+<img src="https://skillicons.dev/icons?i=python"/>
 
-⚙ Automation Systems
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
-📱 Cross-Platform Applications
+<img src="https://skillicons.dev/icons?i=java"/>
 
-☁ Cloud-Based Solutions
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark"/>
+<img src="https://skillicons.dev/icons?i=js"/>
 
 </p>
 
 ---
 
-<p align="center">
+## Frontend
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<p>
 
-</p>
+<img src="https://skillicons.dev/icons?i=html"/>
 
----
+<img src="https://skillicons.dev/icons?i=css"/>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
 
 </p>
 
 ---
 
-# Professional Philosophy
+## Backend & Database
 
-> *"Great software is not measured by the amount of code it contains, but by the value it creates for people."*
+<p>
+
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=netlify"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+⭐ AI Applications
+
+⭐ Computer Vision Systems
+
+⭐ Python Automation
+
+⭐ Full Stack Projects
+
+⭐ Open Source Contributions
+
+⭐ Business Solutions
+
+---
+
+# 🎯 2026 Goals
+
+- Build Production-Level AI Applications
+
+- Publish High-Quality Open Source Projects
+
+- Become an AI Engineer
+
+- Contribute to Global Open Source
+
+- Build SaaS Products
+
+- Master System Design
+
+---
+
+# 📖 Quote
+
+> **"The best software is not the one with the most code, but the one that creates the greatest impact."**
 
 ---
 
 <div align="center">
 
-### Let's Build Something Meaningful Together
+### ⭐ Thanks for visiting my profile ⭐
+
+If you like my work, don't forget to follow me and ⭐ my repositories.
 
 </div>
