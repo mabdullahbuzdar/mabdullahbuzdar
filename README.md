@@ -1,198 +1,150 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=34&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Muhammad+Abdullah;Chief+Operating+Officer+%40+Picoworker;Artificial+Intelligence+%7C+Software+Engineering;Building+Technology+That+Creates+Impact" />
+# Muhammad Abdullah
 
-<br>
+### Chief Operating Officer @ Picoworker
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
-</p>
+Building AI-Driven Products • Software Engineering • Artificial Intelligence • Computer Vision • Cybersecurity
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Chief+Operating+Officer+%40+Picoworker;Software+Engineering+Enthusiast;Artificial+Intelligence+Developer;Computer+Vision+Explorer;Cybersecurity+Learner;Building+Technology+That+Creates+Impact" />
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Muhammad Abdullah
+# About Me
 
-I am a **Chief Operating Officer at Picoworker** and a **Bachelor of Science in Computer Science** student with a strong passion for building innovative software solutions.
+I am a **Bachelor of Science in Computer Science** student and currently serving as the **Chief Operating Officer (COO) at Picoworker**, where I contribute to operational strategy, business growth, and technology-driven decision making.
 
-My interests span across **Artificial Intelligence, Software Engineering, Computer Vision, Cybersecurity, and Modern Web Technologies**.
+My passion lies in building scalable software solutions, exploring Artificial Intelligence, Computer Vision, and creating products that solve real-world problems.
 
-I enjoy transforming complex ideas into practical, scalable products while combining technology, leadership, and business strategy.
-
----
-
-# 💼 Professional Profile
-
-🎯 Chief Operating Officer @ Picoworker
-
-🎓 BS Computer Science
-
-💡 Artificial Intelligence Enthusiast
-
-🧠 Software Engineer
-
-👁 Computer Vision Developer
-
-🔐 Cybersecurity Learner
-
-🌍 Open Source Contributor
+I believe great software is built through continuous learning, collaboration, and innovation.
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 - Artificial Intelligence
 - Software Engineering
 - Computer Vision
-- Cloud Computing
 - Full Stack Development
-- System Design
+- Cloud Technologies
 - Open Source
-- Technology Leadership
+- Cybersecurity
+- Product Development
 
 ---
 
-# ⚡ Tech Stack
+# Technical Skills
 
 ### Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart"/>
-
-</p>
+Python • C++ • Java • JavaScript • SQL
 
 ### Frontend
 
-<p>
+HTML5 • CSS3 • JavaScript
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+### Backend
 
-</p>
-
-### Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql"/>
-
-</p>
+Supabase • Firebase
 
 ### Tools
 
-<p>
+Git
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,netlify"/>
+GitHub
 
-</p>
+VS Code
 
----
+Android Studio
 
-# 📊 GitHub Analytics
+Netlify
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+Linux
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🎯 Featured Projects
-
-🚀 AI Applications
-
-👁 Computer Vision Systems
-
-🌐 Modern Web Applications
-
-📱 Mobile Applications
-
-⚙ Python Automation
-
-💼 Business Solutions
-
-🤖 Open Source Projects
-
----
-
-# 🌱 Currently Learning
+# Professional Interests
 
 Artificial Intelligence
 
 Machine Learning
 
-System Design
-
-Cloud Infrastructure
+Computer Vision
 
 Software Architecture
 
-Advanced Cybersecurity
+Cloud Computing
+
+Cybersecurity
+
+Automation
+
+Business Strategy
+
+Technology Leadership
 
 ---
 
-# 🤝 Let's Connect
+# Featured Projects
 
-<p>
+AI Projects
 
-<a href="https://www.linkedin.com/in/muhammadabdullahbuzdar">
+Computer Vision Systems
 
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+Web Applications
 
-</a>
+Automation Tools
 
-<a href="mailto:abdullahkhanbaloch812@gmail.com">
+Open Source Projects
 
-<img src="https://skillicons.dev/icons?i=gmail"/>
+Business Solutions
 
-</a>
+---
 
-</p>
+# Currently Learning
+
+Advanced AI
+
+Software Architecture
+
+Cloud Infrastructure
+
+DevOps
+
+System Design
+
+---
+
+# Goals for 2026
+
+Contribute to Open Source
+
+Build AI Products
+
+Publish High-Quality Projects
+
+Strengthen Software Engineering Skills
+
+Grow as a Technology Leader
+
+---
+
+# Connect With Me
+
+LinkedIn
+
+www.linkedin.com/in/muhammadabdullahbuzdar
+
+Email
+
+abdullahkhanbaloch812@gmail.com
 
 ---
 
 <div align="center">
 
-## 💭 Philosophy
-
-> **"Technology is most valuable when it solves real-world problems and empowers people."**
-
-⭐ *Building software with purpose.*
+### "Technology becomes valuable when it solves real-world problems."
 
 </div>
