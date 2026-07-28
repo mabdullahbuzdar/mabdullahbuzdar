@@ -37,3 +37,56 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📌 Featured Areas
+
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- ⚙️ Software Engineering
+- 🌐 Modern Web Applications
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- 📊 Business Technology
+- 🚀 Open Source
+
+---
+
+# 🎯 2026 Goals
+
+- 🌟 Build production-ready AI applications
+- 🌍 Contribute to Open Source
+- ☁️ Learn Cloud Infrastructure
+- 🏗️ Master Software Architecture
+- 🚀 Launch scalable SaaS products
+- 💼 Grow as a Technology Leader
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammadabdullahbuzdar"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:abdullahkhanbaloch812@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Technology becomes valuable when it solves real-world problems."*
+
+⭐ **Always learning. Always building. Always improving.**
+
+</div>
