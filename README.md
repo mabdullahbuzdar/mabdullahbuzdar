@@ -1,5 +1,5 @@
 # 💫 About Me:
-Chief Operating Officer @ Picoworker | BS Computer Science Student | AI • Software Engineering • Computer Vision • Cybersecurity
+Chief Operating Officer @ Picoworker | BSCS | AI • Software Engineering • Computer Vision • Cybersecurity
 
 
 ## 🌐 Socials:
