@@ -1,121 +1,91 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Abdullah
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=34&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Muhammad+Abdullah;Chief+Operating+Officer+%40+Picoworker;Artificial+Intelligence+%7C+Software+Engineering;Building+Technology+That+Creates+Impact" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=900&lines=Chief+Operating+Officer+%40+Picoworker;Software+Engineer;Artificial+Intelligence+Enthusiast;Computer+Vision+Developer;Cybersecurity+Learner;Building+Technology+That+Creates+Impact" />
+<br>
 
 <p>
-
-<a href="https://www.linkedin.com/in/muhammadabdullahbuzdar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:abdullahkhanbaloch812@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 </div>
 
 ---
 
-# 💻 About Me
+# 👋 Hello, I'm Muhammad Abdullah
 
-```yaml
-Name: Muhammad Abdullah
+I am a **Chief Operating Officer at Picoworker** and a **Bachelor of Science in Computer Science** student with a strong passion for building innovative software solutions.
 
-Role: Chief Operating Officer @ Picoworker
+My interests span across **Artificial Intelligence, Software Engineering, Computer Vision, Cybersecurity, and Modern Web Technologies**.
 
-Education: BS Computer Science
-
-Location: Quetta, Pakistan
-
-Focus:
-  - Artificial Intelligence
-  - Software Engineering
-  - Computer Vision
-  - Cybersecurity
-  - Full Stack Development
-
-Currently Learning:
-  - Advanced AI
-  - System Design
-  - Cloud Computing
-  - DevOps
-```
+I enjoy transforming complex ideas into practical, scalable products while combining technology, leadership, and business strategy.
 
 ---
 
-# 🚀 Mission
+# 💼 Professional Profile
 
-> Building scalable software solutions powered by Artificial Intelligence while combining technology, leadership, and innovation to solve real-world problems.
+🎯 Chief Operating Officer @ Picoworker
+
+🎓 BS Computer Science
+
+💡 Artificial Intelligence Enthusiast
+
+🧠 Software Engineer
+
+👁 Computer Vision Developer
+
+🔐 Cybersecurity Learner
+
+🌍 Open Source Contributor
+
+---
+
+# 🚀 Current Focus
+
+- Artificial Intelligence
+- Software Engineering
+- Computer Vision
+- Cloud Computing
+- Full Stack Development
+- System Design
+- Open Source
+- Technology Leadership
 
 ---
 
 # ⚡ Tech Stack
 
-## Programming Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-</p>
-
----
-
-## Frontend
+### Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart"/>
 
 </p>
 
----
-
-## Backend & Database
+### Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
 
 </p>
 
----
-
-## Tools
+### Backend & Database
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql"/>
 
-<img src="https://skillicons.dev/icons?i=github"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+### Tools
 
-<img src="https://skillicons.dev/icons?i=androidstudio"/>
+<p>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,netlify"/>
 
 </p>
 
@@ -125,9 +95,9 @@ Currently Learning:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -153,58 +123,76 @@ Currently Learning:
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Featured Projects
 
-⭐ AI Applications
+🚀 AI Applications
 
-⭐ Computer Vision Systems
+👁 Computer Vision Systems
 
-⭐ Python Automation
+🌐 Modern Web Applications
 
-⭐ Full Stack Projects
+📱 Mobile Applications
 
-⭐ Open Source Contributions
+⚙ Python Automation
 
-⭐ Business Solutions
+💼 Business Solutions
 
----
-
-# 🎯 2026 Goals
-
-- Build Production-Level AI Applications
-
-- Publish High-Quality Open Source Projects
-
-- Become an AI Engineer
-
-- Contribute to Global Open Source
-
-- Build SaaS Products
-
-- Master System Design
+🤖 Open Source Projects
 
 ---
 
-# 📖 Quote
+# 🌱 Currently Learning
 
-> **"The best software is not the one with the most code, but the one that creates the greatest impact."**
+Artificial Intelligence
+
+Machine Learning
+
+System Design
+
+Cloud Infrastructure
+
+Software Architecture
+
+Advanced Cybersecurity
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+
+<a href="https://www.linkedin.com/in/muhammadabdullahbuzdar">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:abdullahkhanbaloch812@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## 💭 Philosophy
 
-If you like my work, don't forget to follow me and ⭐ my repositories.
+> **"Technology is most valuable when it solves real-world problems and empowers people."**
+
+⭐ *Building software with purpose.*
 
 </div>
