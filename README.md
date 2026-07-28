@@ -26,6 +26,16 @@
 
 ---
 
+
+# 🎓 Education
+
+🎓 **Bachelor of Science in Computer Science (BSCS)**  
+📍 **University of Balochistan** — Quetta, Pakistan
+
+> Building a strong foundation in Software Engineering, Artificial Intelligence, Computer Vision, Cybersecurity.
+
+
+
 # 🛠️ Tech Stack
 
 ### Programming Languages
