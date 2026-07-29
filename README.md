@@ -85,6 +85,22 @@ I enjoy continuous learning, solving complex problems, and developing technology
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=mabdullahbuzdar&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=mabdullahbuzdar&theme=default_repocard&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mabdullahbuzdar&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mabdullahbuzdar&theme=github" alt="Contribution Graph"/>
+</p>
+
+
 # 🎯 2026 Goals
 
 - 🌟 Build production-ready AI applications
@@ -118,4 +134,5 @@ I enjoy continuous learning, solving complex problems, and developing technology
 
 ⭐ **Always learning. Always building. Always improving.**
 
+</div>
 </div>
