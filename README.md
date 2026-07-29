@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile2.png" alt="Muhammad Abdullah Banner" width="350">
+  <img src="./profile2.png" alt="Muhammad Abdullah Banner" width="500">
 </p>
 
 <div align="center">
@@ -17,9 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadabdullahbuzdar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abdullahbuzdar.officail)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullahbuzdar.officail)
-
-<br>
-
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdullahbuzdar)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@abdullahbuzdar.officail)
 
