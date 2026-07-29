@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Muhammad Abdullah Banner" width="100%">
+  <img src="./profile2.png" alt="Muhammad Abdullah Banner" width="500">
 </p>
 
 <div align="center">
@@ -19,12 +19,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullahbuzdar.officail)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdullahbuzdar)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@abdullahbuzdar.officail)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923091187512)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahkhanbaloch812@gmail.com)
+
 
 </div>
 
 ---
+# 🚀 About Me
+
+I'm **Muhammad Abdullah**, a **BS Computer Science** student at the **University of Balochistan** and currently serving as the **Chief Operating Officer (COO) at Picoworker**.
+
+I'm passionate about **Software Engineering**, **Artificial Intelligence**, **Computer Vision**, **Cybersecurity**, and **Cloud Technologies**, with a focus on building intelligent, scalable, and real-world software solutions.
+
+I enjoy continuous learning, solving complex problems, and developing technology that creates meaningful impact.
 
 
 # 🎓 Education
@@ -91,8 +97,15 @@
 # 🤝 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammadabdullahbuzdar"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:abdullahkhanbaloch812@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+
+<a href="mailto:abdullahkhanbaloch812@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://wa.me/923091187512">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
 </p>
 
 ---
