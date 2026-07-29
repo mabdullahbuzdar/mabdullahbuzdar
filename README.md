@@ -10,7 +10,7 @@
 
 **Building AI-Driven Products • Software Engineering • Artificial Intelligence • Computer Vision • Cybersecurity**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Chief+Operating+Officer+%40+Picoworker;Software+Engineering+Enthusiast;Artificial+Intelligence+Developer;Computer+Vision+Explorer;Building+Intelligent+Solutions+for+Real-World+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Chief+Operating+Officer+%40+Picoworker;Software+Engineering+Enthusiast;Artificial+Intelligence+Learner;Computer+Vision+Explorer;Building+Intelligent+Solutions+for+Real-World+Problems" />
 
 <br>
 
