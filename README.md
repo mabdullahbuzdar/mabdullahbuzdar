@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile2.png" alt="Muhammad Abdullah Banner" width="500">
+  <img src="./profile2.png" alt="Muhammad Abdullah Banner" width="350">
 </p>
 
 <div align="center">
@@ -10,20 +10,23 @@
 
 **Building AI-Driven Products • Software Engineering • Artificial Intelligence • Computer Vision • Cybersecurity**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Chief+Operating+Officer+%40+Picoworker;Software+Engineering+Enthusiast;Artificial+Intelligence+Developer;Computer+Vision+Explorer;Building+Intelligent+Solutions+for+Real-World+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Chief+Operating+Officer+%40+Picoworker;Software+Engineering+Enthusiast;Artificial+Intelligence+Developer;Computer+Vision+Explorer;Building+Intelligent+Solutions+for+Real-World+Problems" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadabdullahbuzdar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abdullahbuzdar.officail)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullahbuzdar.officail)
+
+<br>
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdullahbuzdar)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@abdullahbuzdar.officail)
-
 
 </div>
 
 ---
+
 # 🚀 About Me
 
 I'm **Muhammad Abdullah**, a **BS Computer Science** student at the **University of Balochistan** and currently serving as the **Chief Operating Officer (COO) at Picoworker**.
@@ -32,15 +35,17 @@ I'm passionate about **Software Engineering**, **Artificial Intelligence**, **Co
 
 I enjoy continuous learning, solving complex problems, and developing technology that creates meaningful impact.
 
+---
 
 # 🎓 Education
 
-🎓 **Bachelor of Science in Computer Science (BSCS)**  
+🎓 **Bachelor of Science in Computer Science (BSCS)**
+
 📍 **University of Balochistan** — Quetta, Pakistan
 
-> Building a strong foundation in Software Engineering, Artificial Intelligence, Computer Vision, Cybersecurity.
+> Building a strong foundation in Software Engineering, Artificial Intelligence, Computer Vision, and Cybersecurity.
 
-
+---
 
 # 🛠️ Tech Stack
 
