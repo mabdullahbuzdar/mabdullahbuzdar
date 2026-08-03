@@ -60,6 +60,9 @@ I enjoy continuous learning, solving complex problems, and developing technology
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web Technologies
 
@@ -78,6 +81,7 @@ I enjoy continuous learning, solving complex problems, and developing technology
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
 
 # 📌 Featured Areas
 
